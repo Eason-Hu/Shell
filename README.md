@@ -1,2 +1,5 @@
-# Shell
-shell knowledge center
+# Shell中的括号
+1. 小括号，圆括号()
+* 命令组。括号中的命令将会开一个子shell顺序进行。
+* 命令替换。
+* 用于初始化数组。如：array=(a b c d)
